@@ -6,5 +6,5 @@ Hello World
 * Another list item
 * Last list item
 
-![](Great_Wave _off_Kanagawa.jpg)
+![](cirrusSR20.png)
 ## End
